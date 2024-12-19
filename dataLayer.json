@@ -1,0 +1,26 @@
+[
+    {
+        "event": "Event_Data",
+        "event_type": "new",
+        "page_type": "LP",
+        "ga_event": {
+            "location": "/investir",
+            "action": "click-element",
+            "element_name": "especialistas-em-investimentos"
+        },
+        "product": {
+            "product": "alta-renda-classic",
+            "flow": "consulta"
+        },
+        "user": {
+            "logged_user": "deslogado"
+        },
+        "cd": {
+            "utm_campaign": null,
+            "utm_medium": null,
+            "utm_source": null,
+            "element_title": "investimentos-bradesco"
+        },
+        "gtm.uniqueEventId": 44
+    }
+]
