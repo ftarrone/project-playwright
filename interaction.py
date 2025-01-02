@@ -27,7 +27,7 @@ def interaction(dados_interacao,page):
                 # print(f'{name_elements}:{type_elements}:{identify}')
                 click_selector = (f'{type_elements}.{name_identify}')
                 print(click_selector)
-                page.wait_for_selector(click_selector,timeout=5000)
+                page.wait_for_selector(click_selector,timeout=1000)
                 page.click(click_selector)
                 data_layer = page.evaluate("window.dataLayer || []")
                 event_item = capturar_datalayer(data_layer)

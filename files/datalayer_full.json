@@ -1,0 +1,1714 @@
+[
+  {
+    "index": "0",
+    "name_element": ".",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "text_transparent duvd",
+    "description": "testando"
+  },
+  {
+    "index": "1",
+    "name_element": "Ir para o conteúdo",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "2",
+    "name_element": "Ir para o Menu",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "3",
+    "name_element": "Ir para a Pesquisa",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "4",
+    "name_element": "Ir para o Rodapé",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "5",
+    "name_element": "Como Usar",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "6",
+    "name_element": "Canal do Consorciado",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "7",
+    "name_element": "Acesso Parceiros",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "8",
+    "name_element": "Acessibilidade",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "bt-acessib",
+    "description": "testando"
+  },
+  {
+    "index": "9",
+    "name_element": "Acessibilidade",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "acessib-fechar",
+    "description": "testando"
+  },
+  {
+    "index": "10",
+    "name_element": "Alto Contraste",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "acessib-contraste",
+    "description": "testando"
+  },
+  {
+    "index": "11",
+    "name_element": "WebLibras",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "btn-rybena-sign-language",
+    "description": "testando"
+  },
+  {
+    "index": "12",
+    "name_element": "Sobre Acessibilidade",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "acessib-produtos_servicos",
+    "description": "testando"
+  },
+  {
+    "index": "13",
+    "name_element": "Sobre Acessibilidade",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "acessib-voltar",
+    "description": "testando"
+  },
+  {
+    "index": "14",
+    "name_element": "Sobre Acessibilidade",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "acessib-fechar",
+    "description": "testando"
+  },
+  {
+    "index": "15",
+    "name_element": "Voltar",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "acessib-voltar-button button",
+    "description": "testando"
+  },
+  {
+    "index": "16",
+    "name_element": "Atendimento em Libras",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "button button-libras",
+    "description": "testando"
+  },
+  {
+    "index": "17",
+    "name_element": "Ajuda",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "acessib-ajuda-button button",
+    "description": "testando"
+  },
+  {
+    "index": "18",
+    "name_element": "Ajuda",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "fechar",
+    "description": "testando"
+  },
+  {
+    "index": "19",
+    "name_element": "Ok",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "baixe",
+    "description": "testando"
+  },
+  {
+    "index": "20",
+    "name_element": "Outrosperfis",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "21",
+    "name_element": "Exclusive",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "22",
+    "name_element": "Prime",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "23",
+    "name_element": "Global Private",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "24",
+    "name_element": "Mais opções",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "25",
+    "name_element": "Pra suaempresa",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "26",
+    "name_element": "Empresas                    e Negócios",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "27",
+    "name_element": "Bradesco                    Corporate",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "28",
+    "name_element": "",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "lg-bra",
+    "description": "testando"
+  },
+  {
+    "index": "29",
+    "name_element": "Busca",
+    "type_element": "a",
+    "identify": "id",
+    "name_identify": "buscaMobile home",
+    "description": "testando"
+  },
+  {
+    "index": "30",
+    "name_element": "",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "mobileMenu",
+    "description": "testando"
+  },
+  {
+    "index": "31",
+    "name_element": "crédito",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "32",
+    "name_element": "abra                          sua conta",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "33",
+    "name_element": "boleto",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "34",
+    "name_element": "cartão                          de crédito",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "35",
+    "name_element": "ipva",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "36",
+    "name_element": "Bradesco Explica",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "consorcio",
+    "description": "testando"
+  },
+  {
+    "index": "37",
+    "name_element": "Renegociação de Dívidas",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "renegocie",
+    "description": "testando"
+  },
+  {
+    "index": "38",
+    "name_element": "Cartões",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "cartoes",
+    "description": "testando"
+  },
+  {
+    "index": "39",
+    "name_element": "Financiamentos",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "financiamento",
+    "description": "testando"
+  },
+  {
+    "index": "40",
+    "name_element": "Investimentos",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "investimento",
+    "description": "testando"
+  },
+  {
+    "index": "41",
+    "name_element": "Pague pelo celular                         Por aproximação",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "aproximacao",
+    "description": "testando"
+  },
+  {
+    "index": "42",
+    "name_element": "Seguro                         Superprotegido Premiável",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "superprotegido",
+    "description": "testando"
+  },
+  {
+    "index": "43",
+    "name_element": "As melhores                         ofertas para você",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "ofertas",
+    "description": "testando"
+  },
+  {
+    "index": "44",
+    "name_element": "Compre moeda                         Pelo Autoatendimento",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "moeda",
+    "description": "testando"
+  },
+  {
+    "index": "45",
+    "name_element": "Seguro                         Superprotegido Premiável",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "premiavel",
+    "description": "testando"
+  },
+  {
+    "index": "46",
+    "name_element": "",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "hidden-xs hidden-sm desktop-item",
+    "description": "testando"
+  },
+  {
+    "index": "47",
+    "name_element": "Abra sua          conta",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "botaoAbraConta",
+    "description": "testando"
+  },
+  {
+    "index": "48",
+    "name_element": "CONTRATE          ON-LINE",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "botaoContrate",
+    "description": "testando"
+  },
+  {
+    "index": "49",
+    "name_element": "Menu",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "mm-title",
+    "description": "testando"
+  },
+  {
+    "index": "50",
+    "name_element": "Menu",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "mm-next next-produtos-servicos",
+    "description": "testando"
+  },
+  {
+    "index": "51",
+    "name_element": "Produtos e Serviços",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "mm-selected hover-menu",
+    "description": "testando"
+  },
+  {
+    "index": "52",
+    "name_element": "Mimos                e Parcerias",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "53",
+    "name_element": "Acessibilidade",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "54",
+    "name_element": "Cidadania                Financeira",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "55",
+    "name_element": "Cidadania                Financeira",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "mm-next next-canais-digitais",
+    "description": "testando"
+  },
+  {
+    "index": "56",
+    "name_element": "Canais",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "mm-selected hover-menu",
+    "description": "testando"
+  },
+  {
+    "index": "57",
+    "name_element": "Atendimento",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "58",
+    "name_element": "Encontrar                Agências                Bradesco",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "59",
+    "name_element": "Capitalização Max Prêmios",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "60",
+    "name_element": "Câmbio",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "61",
+    "name_element": "Cartões",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "62",
+    "name_element": "Cestas de Serviços e Tarifas",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "63",
+    "name_element": "Consórcios",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "64",
+    "name_element": "Empréstimos e Financiamentos",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "65",
+    "name_element": "Investimentos",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "66",
+    "name_element": "Leilões",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "67",
+    "name_element": "Renegociação de Dívidas",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "68",
+    "name_element": "Seguros",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "69",
+    "name_element": "Tipos de Contas",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "70",
+    "name_element": "Vida e Previdência",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "71",
+    "name_element": "Serviços",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "72",
+    "name_element": "Como usar minha conta Bradesco",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "73",
+    "name_element": "Internet Banking",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "74",
+    "name_element": "Aplicativos Bradesco",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "75",
+    "name_element": "Caixa Eletrônico",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "76",
+    "name_element": "BIA",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "77",
+    "name_element": "BIA",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "mm-next next-produtos-servicos",
+    "description": "testando"
+  },
+  {
+    "index": "78",
+    "name_element": "Mimos e Parcerias",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "79",
+    "name_element": "Acessibilidade",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "80",
+    "name_element": "Cidadania Financeira",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "81",
+    "name_element": "Cidadania Financeira",
+    "type_element": "a",
+    "identify": "id",
+    "name_identify": "mm-next next-produtos-servicos",
+    "description": "testando"
+  },
+  {
+    "index": "82",
+    "name_element": "Atendimento",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "83",
+    "name_element": "Encontrar Agências Bradesco",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "84",
+    "name_element": "Encontrar Agências Bradesco",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "85",
+    "name_element": "página inicial",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "86",
+    "name_element": "Como usar minha conta",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "87",
+    "name_element": "App Bradesco",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "88",
+    "name_element": "Internet banking",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "89",
+    "name_element": "Abertura de conta",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "90",
+    "name_element": "Peça já seu cartão",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "91",
+    "name_element": "Investimentos",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "92",
+    "name_element": "Bradesco Shop",
+    "type_element": "a",
+    "identify": "id",
+    "name_identify": "",
+    "description": "testando"
+  },
+  {
+    "index": "93",
+    "name_element": "Dicas de segurança",
+    "type_element": "a",
+    "identify": "id",
+    "name_identify": "",
+    "description": "testando"
+  },
+  {
+    "index": "94",
+    "name_element": "Cartões Bradesco",
+    "type_element": "a",
+    "identify": "id",
+    "name_identify": "",
+    "description": "testando"
+  },
+  {
+    "index": "95",
+    "name_element": "Pagamentos",
+    "type_element": "a",
+    "identify": "id",
+    "name_identify": "",
+    "description": "testando"
+  },
+  {
+    "index": "96",
+    "name_element": "2ª via de boleto",
+    "type_element": "a",
+    "identify": "id",
+    "name_identify": "",
+    "description": "testando"
+  },
+  {
+    "index": "97",
+    "name_element": "Informações úteis",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "98",
+    "name_element": "Cestas de Serviços e Tarifas",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "99",
+    "name_element": "Portal do Consumidor - PROCONs",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "100",
+    "name_element": "Consumidor.gov.br",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "101",
+    "name_element": "Canal Corporativo de Denúncias",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "102",
+    "name_element": "Diretivas de Privacidade",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "103",
+    "name_element": "Sistema de Informação de Crédito (SCR)",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "104",
+    "name_element": "Comparativos de Tarifas – FEBRABAN",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "105",
+    "name_element": "Taxa de Juros de Operações de Crédito - BACEN",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "106",
+    "name_element": "Código de Defesa do Consumidor",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "107",
+    "name_element": "Lei Geral de Proteção de Dados",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "108",
+    "name_element": "Atendimento",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "109",
+    "name_element": "0800 704 8383",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "110",
+    "name_element": "0800 704 8383",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "111",
+    "name_element": "0800 727 9933",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "112",
+    "name_element": "0800 727 9933",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "113",
+    "name_element": "11 3335 0237",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "114",
+    "name_element": "11 3335 0237",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "115",
+    "name_element": "aqui",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "undeline-link",
+    "description": "testando"
+  },
+  {
+    "index": "116",
+    "name_element": "aqui",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "117",
+    "name_element": "sites bradesco",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "118",
+    "name_element": "Ágora Investimentos",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "119",
+    "name_element": "Agronegócio",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "120",
+    "name_element": "Aposentados",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "121",
+    "name_element": "Autoline",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "122",
+    "name_element": "BBI",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "123",
+    "name_element": "BEM DTVM",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "124",
+    "name_element": "Bradescard",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "125",
+    "name_element": "Bradespar",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "126",
+    "name_element": "BRAM - Bradesco Asset Management",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "127",
+    "name_element": "Corporate",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "128",
+    "name_element": "Crianças e Adolescentes",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "129",
+    "name_element": "Custódia",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "130",
+    "name_element": "Cultura Bradesco",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "131",
+    "name_element": "Despachantes e Autoescolas",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "132",
+    "name_element": "Economia em Dia",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "133",
+    "name_element": "Esportes e Educação",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "134",
+    "name_element": "Europa",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "135",
+    "name_element": "Empresas e Negócios",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "136",
+    "name_element": "Expresso",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "137",
+    "name_element": "Financiamentos",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "138",
+    "name_element": "Fornecedores",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "139",
+    "name_element": "Fundação Bradesco",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "140",
+    "name_element": "Hospital Edmundo Vasconcelos",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "141",
+    "name_element": "Investimentos",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "142",
+    "name_element": "InovaBRA",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "143",
+    "name_element": "MEI",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "144",
+    "name_element": "Museu Histórico",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "145",
+    "name_element": "Next",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "146",
+    "name_element": "Nikkei",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "147",
+    "name_element": "Poder Público",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "148",
+    "name_element": "Relação com Investidores",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "149",
+    "name_element": "Segurança",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "150",
+    "name_element": "Seguros",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "151",
+    "name_element": "Sustentabilidade",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "152",
+    "name_element": "Unibrad",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "153",
+    "name_element": "Universitários",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "154",
+    "name_element": "Ágora Investimentos",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "155",
+    "name_element": "Agronegócio",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "156",
+    "name_element": "Autoline",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "157",
+    "name_element": "BBI",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "158",
+    "name_element": "BEM DTVM",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "159",
+    "name_element": "Bradescard",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "160",
+    "name_element": "Bradespar",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "161",
+    "name_element": "BRAM - Bradesco Asset Management",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "162",
+    "name_element": "Custódia",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "163",
+    "name_element": "Cultura Bradesco",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "164",
+    "name_element": "Despachantes e Autoescolas",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "165",
+    "name_element": "Economia em Dia",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "166",
+    "name_element": "Energia",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "167",
+    "name_element": "Esportes e Educação",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "168",
+    "name_element": "Europa",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "169",
+    "name_element": "Expresso",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "170",
+    "name_element": "Financiamentos",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "171",
+    "name_element": "Fornecedores",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "172",
+    "name_element": "Fundação Bradesco",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "173",
+    "name_element": "Hospital Edmundo Vasconcelos",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "174",
+    "name_element": "Investimentos",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "175",
+    "name_element": "InovaBRA",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "176",
+    "name_element": "Integridade",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "177",
+    "name_element": "MEI",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "178",
+    "name_element": "Museu Histórico",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "179",
+    "name_element": "Next",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "180",
+    "name_element": "Órgãos Públicos - Extrato FUNDEB",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "181",
+    "name_element": "Relação com Investidores",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "182",
+    "name_element": "Seguros",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "183",
+    "name_element": "Servidor Público",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "184",
+    "name_element": "Unibrad",
+    "type_element": "a",
+    "identify": "title",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "185",
+    "name_element": "Unibrad",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "undefined",
+    "description": "testando"
+  },
+  {
+    "index": "186",
+    "name_element": "Unibrad",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "undefined",
+    "description": "testando"
+  },
+  {
+    "index": "187",
+    "name_element": "Unibrad",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "undefined",
+    "description": "testando"
+  },
+  {
+    "index": "188",
+    "name_element": "Unibrad",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "undefined",
+    "description": "testando"
+  },
+  {
+    "index": "189",
+    "name_element": "Unibrad",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "undefined",
+    "description": "testando"
+  },
+  {
+    "index": "190",
+    "name_element": "Unibrad",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "undefined",
+    "description": "testando"
+  },
+  {
+    "index": "191",
+    "name_element": "sobre o bradesco  ",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "undefined",
+    "description": "testando"
+  },
+  {
+    "index": "192",
+    "name_element": "bradesco imprensa ",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "undefined",
+    "description": "testando"
+  },
+  {
+    "index": "193",
+    "name_element": "Trabalhe Conosco ",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "undefined",
+    "description": "testando"
+  },
+  {
+    "index": "194",
+    "name_element": "Segurança ",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "undefined",
+    "description": "testando"
+  },
+  {
+    "index": "195",
+    "name_element": "Integridade ",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "undefined",
+    "description": "testando"
+  },
+  {
+    "index": "196",
+    "name_element": "relação com investidores",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "undefined",
+    "description": "testando"
+  },
+  {
+    "index": "197",
+    "name_element": " sustentabilidade",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "undefined",
+    "description": "testando"
+  },
+  {
+    "index": "198",
+    "name_element": "Diretiva                        de Privacidade",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "js-href",
+    "description": "testando"
+  },
+  {
+    "index": "199",
+    "name_element": "Fechar",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "c-btn js-aceitar",
+    "description": "testando"
+  },
+  {
+    "index": "200",
+    "name_element": "Configurar Cookies",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "c-btn js-configurar is-hidden",
+    "description": "testando"
+  },
+  {
+    "index": "201",
+    "name_element": "policies google",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "c-link--blue",
+    "description": "testando"
+  },
+  {
+    "index": "202",
+    "name_element": "aqui",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "c-link--blue",
+    "description": "testando"
+  },
+  {
+    "index": "203",
+    "name_element": "Aceitar e Salvar",
+    "type_element": "a",
+    "identify": "class",
+    "name_identify": "c-btn js-salvar",
+    "description": "testando"
+  },
+  {
+    "index": "0",
+    "name_element": "Como usar as teclas denavegação?",
+    "type_element": "button",
+    "identify": "class",
+    "name_identify": "c-accordion--btn js-acc-btn",
+    "description": "testando"
+  },
+  {
+    "index": "1",
+    "name_element": "Como aumentar e diminuir o tamanho dafonte?",
+    "type_element": "button",
+    "identify": "class",
+    "name_identify": "c-accordion--btn js-acc-btn",
+    "description": "testando"
+  },
+  {
+    "index": "2",
+    "name_element": "O tradutor de Libras não estáfuncionando. O que fazer?",
+    "type_element": "button",
+    "identify": "class",
+    "name_identify": "c-accordion--btn js-acc-btn",
+    "description": "testando"
+  },
+  {
+    "index": "3",
+    "name_element": "Como usar o alto contraste?",
+    "type_element": "button",
+    "identify": "class",
+    "name_identify": "c-accordion--btn js-acc-btn",
+    "description": "testando"
+  },
+  {
+    "index": "4",
+    "name_element": "Busca",
+    "type_element": "button",
+    "identify": "id",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "5",
+    "name_element": "",
+    "type_element": "button",
+    "identify": "id",
+    "name_identify": "search-button",
+    "description": "testando"
+  },
+  {
+    "index": "6",
+    "name_element": "Ver todos os resultados",
+    "type_element": "button",
+    "identify": "id",
+    "name_identify": "None",
+    "description": "testando"
+  },
+  {
+    "index": "7",
+    "name_element": "",
+    "type_element": "button",
+    "identify": "id",
+    "name_identify": "voice-button",
+    "description": "testando"
+  },
+  {
+    "index": "8",
+    "name_element": "",
+    "type_element": "button",
+    "identify": "id",
+    "name_identify": "btn-search",
+    "description": "testando"
+  },
+  {
+    "index": "9",
+    "name_element": "X",
+    "type_element": "button",
+    "identify": "class",
+    "name_identify": "c-closed",
+    "description": "testando"
+  }
+]

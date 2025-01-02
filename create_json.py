@@ -1,4 +1,4 @@
-    import json
+import json
 
  
 
@@ -25,11 +25,8 @@ def create_json(element_search,page,lista):
        
 
         elements_search = links.nth(i)
-
         identify_id = elements_search.get_attribute('id')
-
         identify_class = elements_search.get_attribute('class')    
-
         identify_title = elements_search.get_attribute('title')
 
  
@@ -67,13 +64,9 @@ def create_json(element_search,page,lista):
         if link != '':
 
             link1 = link.split(',')[-1]
-
             link1 = link1.strip()
-
             link1 = link1.replace('\n','')
-
             link1 = link1.replace('\t','')
-
             link1 = link1.replace('|','')
 
          
@@ -83,15 +76,10 @@ def create_json(element_search,page,lista):
         element_arr = {
 
             "index"         : f'{i}',
-
             "name_element"  : f'{link1}',
-
             "type_element"  : f'{element_search}',
-
             "identify"      : f'{identify}',
-
             "name_identify" : f'{identify_class}',
-
             "description"   : f'testando'
 
         }
